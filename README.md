@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ejunjsh/httpdir.svg?branch=master)](https://travis-ci.org/ejunjsh/httpdir)
 
-a commandline to make your directory become a static server
+a commandline to make your directory become a static file server
 
 ## install
 
